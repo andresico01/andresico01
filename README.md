@@ -58,7 +58,7 @@
       <strong> Cypress </strong>
     </a>
     <br />
-    <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation.</em>
+    <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation using javascript lenguage .</em>
   </li>
   <br />
 
