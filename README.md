@@ -52,15 +52,23 @@
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo" />
+
+    <!-- Icono de Cypress -->
+  <img src="https://cdn.simpleicons.org/cypress/69C393" height="40" alt="cypress logo" />
+  <img width="12" />
+  
+  <!-- Icono de Appium -->
+  <img src="https://cdn.simpleicons.org/appium/6600EE" height="40" alt="appium logo" />
+  <img width="12" />
+  
+  <!-- Icono de Playwright -->
+  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="playwright logo" />
+  <img width="12" />
 </div>
 
 ###
 
-<div align="center">
-  <!-- Recuerda cambiar TU_USUARIO_GITHUB en las URLs de abajo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresico01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=andresico01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
+
 
 ###
 
