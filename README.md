@@ -119,10 +119,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" />
   <img width="12" />
   
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo" />
-
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/cypress/69C393" height="40" alt="cypress logo" />
   <img width="12" />
   
