@@ -58,8 +58,6 @@
   <img width="12" />
   
   <!-- Automatización y Testing -->
-  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="playwright logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/k6/7CF6FD" height="40" alt="k6 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
@@ -83,8 +81,6 @@
   <img src="https://cdn.simpleicons.org/appium/6600EE" height="40" alt="appium logo" />
   <img width="12" />
   
-  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="playwright logo" />
-  <img width="12" />
 </div>
 
 ###
