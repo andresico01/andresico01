@@ -25,6 +25,53 @@
   </tr>
 </table>
 
+
+<!-- REPOSITORIES SECTION -->
+<h2 align="left">📌 Featured Repositories</h2>
+
+<ul align="left">
+  <!-- Proyecto 1: Multi-tenancy / Arquitectura -->
+  <li>
+    <a href="https://github.com/TU_USUARIO_GITHUB/community-management-platform" target="_blank">
+      <strong>⚡ Multi-Tenancy Community Platform</strong>
+    </a>
+    <br />
+    <em>Architecture design using Hexagonal Architecture. Segregated frontend, backend, and database environments running on Docker Compose.</em>
+  </li>
+  <br />
+
+  <!-- Proyecto 2: Performance con K6 -->
+  <li>
+    <a href="https://github.com/TU_USUARIO_GITHUB/k6-performance-framework" target="_blank">
+      <strong>📈 K6 Performance Testing Framework</strong>
+    </a>
+    <br />
+    <em>Scalable performance testing environment bundled with Docker. Includes GitHub Actions matrix configuration to scale Virtual Users seamlessly.</em>
+  </li>
+  <br />
+
+  <!-- Proyecto 3: Automation Framework -->
+  <li>
+    <a href="https://github.com/TU_USUARIO_GITHUB/playwright-screenplay-automation" target="_blank">
+      <strong>🎭 E2E Playwright Automation Framework</strong>
+    </a>
+    <br />
+    <em>An advanced end-to-end testing framework implementing the Screenplay Pattern for robust, scalable, and highly readable web automation.</em>
+  </li>
+  <br />
+
+  <!-- Proyecto 4: Portafolio Personal -->
+  <li>
+    <a href="https://github.com/TU_USUARIO_GITHUB/personal-portfolio" target="_blank">
+      <strong>💻 Personal Portfolio Website</strong>
+    </a>
+    <br />
+    <em>My professional portfolio built with React, Vite, Tailwind CSS, and fully containerized using Docker for easy deployment.</em>
+  </li>
+</ul>
+
+###
+
 ###
 
 <div align="center">
