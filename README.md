@@ -60,6 +60,7 @@
     <br />
     <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation.</em>
   </li>
+  <br />
 
    <li>
     <a href="https://github.com/andresico01/screenplay" target="_blank">
