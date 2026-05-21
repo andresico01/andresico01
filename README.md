@@ -42,7 +42,7 @@
 
   <!-- Proyecto 2: Performance con K6 -->
   <li>
-    <a href="https://github.com/TU_USUARIO_GITHUB/k6-performance-framework" target="_blank">
+    <a href="https://github.com/andresico01/k6" target="_blank">
       <strong>📈 K6 Performance Testing Framework</strong>
     </a>
     <br />
@@ -52,21 +52,29 @@
 
   <!-- Proyecto 3: Automation Framework -->
   <li>
-    <a href="https://github.com/TU_USUARIO_GITHUB/playwright-screenplay-automation" target="_blank">
+    <a href="https://github.com/andresico01/Playwright" target="_blank">
       <strong>🎭 E2E Playwright Automation Framework</strong>
     </a>
     <br />
-    <em>An advanced end-to-end testing framework implementing the Screenplay Pattern for robust, scalable, and highly readable web automation.</em>
+    <em>An advanced end-to-end testing framework implementing the POM + fixture Pattern for robust, scalable, and highly readable web automation.</em>
   </li>
   <br />
 
   <!-- Proyecto 4: Portafolio Personal -->
   <li>
-    <a href="https://github.com/TU_USUARIO_GITHUB/personal-portfolio" target="_blank">
-      <strong>💻 Personal Portfolio Website</strong>
+    <a href=https://github.com/andresico01/cypress" target="_blank">
+      <strong> Cypress </strong>
     </a>
     <br />
-    <em>My professional portfolio built with React, Vite, Tailwind CSS, and fully containerized using Docker for easy deployment.</em>
+    <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation.</em>
+  </li>
+
+   <li>
+    <a href="https://github.com/andresico01/screenplay" target="_blank">
+      <strong> Selenium - java  </strong>
+    </a>
+    <br />
+    <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation.</em>
   </li>
 </ul>
 
