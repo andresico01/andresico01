@@ -2,6 +2,31 @@
 
 ###
 
+<!-- PROFILE SUMMARY SECTION -->
+<table align="center" width="100%">
+  <tr>
+    <td>
+      <h2 align="left">🚀 About Me</h2>
+      <p align="left">
+        I am a results-driven <strong>Quality Engineering Analyst & QA Lead</strong> with over 4 years of expertise in software testing, framework design, and core banking migrations. My technical focus lies in building scalable E2E automation frameworks, managing high-performing teams, and driving robust quality strategies.
+      </p>
+      <p align="left">
+        <strong>What I bring to the table:</strong>
+      </p>
+      <ul align="left">
+        <li><strong>QA Leadership:</strong> Proven track record leading large testing teams (up to 15+ testers) and defining end-to-end strategies for major financial rollouts and international expansions.</li>
+        <li><strong>Automation & Performance Architecture:</strong> Skilled in designing architectures using modern patterns (like Screenplay and POM) with tools like Playwright, Cypress, and K6, fully integrated into CI/CD pipelines.</li>
+        <li><strong>Domain Expertise:</strong> Deep understanding of financial messaging protocols, multi-tenancy environments, core banking infrastructure, and containerized microservices.</li>
+      </ul>
+      <p align="left">
+        <em>Currently focusing on DevSecOps practices, Infrastructure Monitoring, and leveraging LLMs to optimize quality engineering lifecycles.</em>
+      </p>
+    </td>
+  </tr>
+</table>
+
+###
+
 <div align="center">
   <!-- Reemplaza TU_USUARIO_GITHUB con tu usuario real -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO_GITHUB.TU_USUARIO_GITHUB&" />
