@@ -35,7 +35,7 @@
   <!-- Proyecto 2: Performance con K6 -->
   <li>
     <a href="https://github.com/andresico01/k6" target="_blank">
-      <strong>📈 K6 Performance Testing Framework</strong>
+      <strong> K6 Performance Testing Framework</strong>
     </a>
     <br />
     <em>A performance testing Proof of Concept (PoC) leveraging K6 and Docker to architect a distributed load testing environment. By containerizing the testing execution layer, this framework enables seamless scaling across multiple virtual machines to simulate high volumes of concurrent Virtual Users (VUs) and stress-test target infrastructures.</em>
@@ -45,7 +45,7 @@
   <!-- Proyecto 3: Automation Framework -->
   <li>
     <a href="https://github.com/andresico01/Playwright" target="_blank">
-      <strong>🎭 E2E Playwright Automation Framework</strong>
+      <strong> E2E Playwright Automation Framework</strong>
     </a>
     <br />
     <em>A scalable E2E testing framework designed with Playwright, implementing the Page Object Model (POM) combined with custom fixtures for optimal test isolation and reusability. The project features parallel test execution across multiple simulated devices and viewports, utilizing Playwright's native capabilities to maximize pipeline efficiency.</em>
