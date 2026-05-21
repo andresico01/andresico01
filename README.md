@@ -64,11 +64,4 @@
 
 ###
 
-<!-- Gráfica de contribuciones estilo Donkey Kong -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph.svg">
-  <img alt="donkey kong contribution graph" src="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph.svg">
-</picture>
 
-###
