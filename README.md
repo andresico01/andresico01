@@ -30,15 +30,7 @@
 <h2 align="left">📌 Featured Repositories</h2>
 
 <ul align="left">
-  <!-- Proyecto 1: Multi-tenancy / Arquitectura -->
-  <li>
-    <a href="https://github.com/TU_USUARIO_GITHUB/community-management-platform" target="_blank">
-      <strong>⚡ Multi-Tenancy Community Platform</strong>
-    </a>
-    <br />
-    <em>Architecture design using Hexagonal Architecture. Segregated frontend, backend, and database environments running on Docker Compose.</em>
-  </li>
-  <br />
+ 
 
   <!-- Proyecto 2: Performance con K6 -->
   <li>
