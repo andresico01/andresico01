@@ -38,7 +38,7 @@
       <strong>📈 K6 Performance Testing Framework</strong>
     </a>
     <br />
-    <em>Scalable performance testing environment bundled with Docker. Includes GitHub Actions matrix configuration to scale Virtual Users seamlessly.</em>
+    <em>A performance testing Proof of Concept (PoC) leveraging K6 and Docker to architect a distributed load testing environment. By containerizing the testing execution layer, this framework enables seamless scaling across multiple virtual machines to simulate high volumes of concurrent Virtual Users (VUs) and stress-test target infrastructures.</em>
   </li>
   <br />
 
@@ -48,7 +48,7 @@
       <strong>🎭 E2E Playwright Automation Framework</strong>
     </a>
     <br />
-    <em>An advanced end-to-end testing framework implementing the POM + fixture Pattern for robust, scalable, and highly readable web automation.</em>
+    <em>A scalable E2E testing framework designed with Playwright, implementing the Page Object Model (POM) combined with custom fixtures for optimal test isolation and reusability. The project features parallel test execution across multiple simulated devices and viewports, utilizing Playwright's native capabilities to maximize pipeline efficiency.</em>
   </li>
   <br />
 
@@ -58,7 +58,7 @@
       <strong> Cypress </strong>
     </a>
     <br />
-    <em>An advanced end-to-end testing framework implementing the Screemplay Pattern for robust, scalable, and highly readable web automation using javascript lenguage .</em>
+    <em>An E2E testing framework designed to master Cypress's architecture and native capabilities. The project focuses on automation best practices, utilizing aliases to streamline element mapping and route handling, alongside custom-built utility functions to standardize automated test evidence generation.</em>
   </li>
   <br />
 
