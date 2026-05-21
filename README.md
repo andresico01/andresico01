@@ -58,17 +58,17 @@
 
 <div align="center">
   <!-- Recuerda cambiar TU_USUARIO_GITHUB en las URLs de abajo -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_GITHUB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andresico01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=andresico01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ###
 
 <!-- Gráfica de contribuciones estilo Donkey Kong -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/donkey-kong-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/donkey-kong-contribution-graph.svg">
-  <img alt="donkey kong contribution graph" src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/donkey-kong-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph.svg">
+  <img alt="donkey kong contribution graph" src="https://raw.githubusercontent.com/andresico01/andresico01/output/donkey-kong-contribution-graph.svg">
 </picture>
 
 ###
